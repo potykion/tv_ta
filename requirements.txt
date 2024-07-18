@@ -1,0 +1,10 @@
+hyperopt
+sklearn
+tradingview_ta
+pydantic
+pandas
+xgboost
+dotenv
+python-telegram-bot
+matplotlib
+tabulate
